@@ -1,0 +1,4 @@
+Demo:
+- Model sau khi trên
+- User 1, user 2 trc khi rate
+- User 1, user 2 sau khi rate
